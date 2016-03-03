@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Lato";
+    src: url(Lato-Medium.ttf) format("truetype")
+}
+* {
+    font-family: "Lato";
+}
